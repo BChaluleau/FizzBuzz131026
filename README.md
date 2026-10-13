@@ -2,7 +2,7 @@
 
 ## backlog (1e etape de la méthodologie TDD)
 
-[ ] "1" 
+[X] "1" 
 [ ] "2"
 [ ] Fizz
 [ ] "4" Buzz
