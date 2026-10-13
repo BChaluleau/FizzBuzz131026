@@ -31,4 +31,10 @@ class FizzbuzzerTester {
 		assertEquals("2", fb.next());
 	}
 
+	@Test
+	void testTrois() {
+		preshot(2);
+		assertEquals("Fizz", fb.next());
+	}
+
 }

@@ -3,8 +3,8 @@
 ## backlog (1e etape de la méthodologie TDD)
 
 [X] "1" 
-[O] "2"
-[ ] Fizz
+[X] "2"
+[X] Fizz
 [ ] "4" Buzz
 [ ] "Fizz"
 [ ] 15 -> "FizzBuzz"
